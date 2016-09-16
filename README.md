@@ -2,8 +2,6 @@
 
 Hides the texts from the notification shade (also known as notification panel) that shows when there is no notifications ("No notifications").
 
-Please note that this module also hides battery status text on the lockscreen.
-
 It was designed with stock Android in mind. It may work with a OEM ROM, but I don't guarantee anything.
 
 If anything doesn't works, you're welcome to file an issue.
