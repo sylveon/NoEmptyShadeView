@@ -1,6 +1,6 @@
 # No Empty Shade View
 
-Hides the texts from the notification shade (also known as notification panel) that shows when there is no notifications ("No notifications).
+Hides the texts from the notification shade (also known as notification panel) that shows when there is no notifications ("No notifications").
 
 Please note that this module also hides battery status text on the lockscreen.
 
