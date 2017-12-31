@@ -23,10 +23,9 @@ gradlew
 
 If everything runs fine, you should see a prompt like this:
 ```
-Incremental java compilation is an incubating feature.
-:help
+> Task :help
 
-Welcome to Gradle 2.10.
+Welcome to Gradle 4.1.
 
 To run a build, run gradlew <task> ...
 
@@ -36,9 +35,9 @@ To see a list of command-line options, run gradlew --help
 
 To see more detail about a task, run gradlew help --task <task>
 
-BUILD SUCCESSFUL
 
-Total time: 40.076 secs
+BUILD SUCCESSFUL in 44s
+1 actionable task: 1 executed
 ```
 If you don't see that, you'll be able to fix the errors that occured by following instructions in the text printed.
 
