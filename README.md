@@ -4,7 +4,7 @@ Hides the texts from the notification shade (also known as notification panel) t
 
 It was designed with stock Android in mind. It may work with a OEM ROM, but I don't guarantee anything.
 
-If anything doesn't works, you're welcome to file an issue.
+If it doesn't works, you can file an issue.
 
 ## Links
 
@@ -59,4 +59,4 @@ If you only want to use the module and not build it, you can install it [here](h
 
 ## Uninstalling
 
-*stabbing intensifies*
+You really need help for that?
